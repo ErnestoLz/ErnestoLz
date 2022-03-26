@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+<p align="center">
+<img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoLz&theme=discord_old_blurple&layout=compact&langs_count=20"/>
+<img alt="git stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoLz&theme=discord_old_blurple&layout=compact&langs_count=20"/>
+</p>
 <!--
 **ErnestoLz/ErnestoLz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
