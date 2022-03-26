@@ -1,6 +1,7 @@
 ### Hi there 👋
 <p align="center">
 <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoLz&theme=discord_old_blurple&layout=compact&langs_count=20"/>
+<br/>
 <img alt="git stats" src="https://github-readme-stats.vercel.app/api?username=ErnestoLz&show_icons=true&theme=discord_old_blurple&locale=en&count_private=true"/>
 </p>
 <!--
