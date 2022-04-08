@@ -1,6 +1,6 @@
 ### Hi there 👋
 <p align="center">
-I am a computer science major at FAU expecting to graduate May 2022
+  I am a computer science major at <a href= "https://www.fau.edu/engineering/"> FAU </a> expecting to graduate May 2022
   <br/><br/>
 <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErnestoLz&theme=discord_old_blurple&layout=compact&langs_count=20"/>
 <br/>
